@@ -7,7 +7,6 @@ Automated Arch Linux installation with profile-based configurations
 ## Table of Contents
 
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
 - [Available Profiles](#available-profiles)
 - [To-Do List](#to-do-list)
