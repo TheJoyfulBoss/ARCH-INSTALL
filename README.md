@@ -28,6 +28,10 @@ Automated Arch Linux installation with profile-based configurations
 - 
 ---
 
+## TO DO LIST
+!!! ENABLE SERVICES !!!
+- General Use Packages
+
 ## Quick Start
 
 ```bash
